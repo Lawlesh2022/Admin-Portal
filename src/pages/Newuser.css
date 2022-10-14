@@ -1,0 +1,53 @@
+.newUser{
+    flex: 4;
+    padding: 20px;
+    background-color: lightpink;
+}
+.newUserForm{
+    display: flex;
+    flex-wrap: wrap;
+}
+.newUserItem{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.newUserItem>label{
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: purple;
+}
+.newUserItem>input{
+    height: 20px;
+    padding: 10px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+.newUserGender>input{
+    margin-top: 15px;
+}
+.newUserGender>label{
+    margin: 10px;
+    font-size: 18px;
+    color: purple;
+}
+.newUserSelect{
+    height: 40px;
+    border-radius: 5px;
+    color: green;
+}
+.newUserButton{
+    width: 230px;
+    border: none;
+    background-color: darkblue;
+    color: white;
+    padding: 10px 10px;
+    font-weight: 600;
+    border-radius: 10px;
+    margin-top: 30px;
+    cursor: pointer;
+    text-align: center;
+}

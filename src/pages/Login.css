@@ -1,0 +1,15 @@
+.login{
+    flex: 4;
+}
+.logincontainer{
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    height: 80vh;
+    margin: 40px auto;
+    border-radius: 20px;
+    background-color: lightgoldenrodyellow;
+    border: 5px solid purple;
+}
