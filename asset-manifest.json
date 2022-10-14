@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Admin-Portal/static/css/main.decbbecd.css",
-    "main.js": "/Admin-Portal/static/js/main.d712292e.js",
+    "main.js": "/Admin-Portal/static/js/main.11571687.js",
     "static/js/787.af04e08f.chunk.js": "/Admin-Portal/static/js/787.af04e08f.chunk.js",
     "index.html": "/Admin-Portal/index.html",
     "main.decbbecd.css.map": "/Admin-Portal/static/css/main.decbbecd.css.map",
-    "main.d712292e.js.map": "/Admin-Portal/static/js/main.d712292e.js.map",
+    "main.11571687.js.map": "/Admin-Portal/static/js/main.11571687.js.map",
     "787.af04e08f.chunk.js.map": "/Admin-Portal/static/js/787.af04e08f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.decbbecd.css",
-    "static/js/main.d712292e.js"
+    "static/js/main.11571687.js"
   ]
 }
